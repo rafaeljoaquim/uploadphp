@@ -1,4 +1,4 @@
-<form method="post" action="recebe_upload.php" enctype="multipart/form-data">
+<form method="post" action="upload.php" enctype="multipart/form-data">
   <label>Arquivo</label>
   /*onde o usuario ecolhera a imagem*/
   <input type="file" name="arquivo" />
